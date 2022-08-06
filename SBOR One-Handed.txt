@@ -1,0 +1,3389 @@
+local ResultTable = {
+		["Trinity Longsword MIII"] = {
+			["DMG"] = {
+				["Value"] = 1805;
+			};
+			["Worth"] = {
+				["Value"] = 320;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 325;
+			};
+			["EventCurrency"] = {
+				["Value"] = "Easter Egg";
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Das Chaos"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 1508;
+			};
+			["Skill"] = {
+				["Value"] = 285;
+			};
+			["Worth"] = {
+				["Value"] = 82592;
+			};
+		};
+		["Master Smiths Mace"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 200;
+			};
+			["Value"] = "One-Handed";
+			["Pass"] = {
+				["Value"] = 10471611;
+			};
+			["Skill"] = {
+				["Value"] = 35;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Xspalker"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 75;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Dark Viel"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 1091;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 225;
+			};
+			["Worth"] = {
+				["Value"] = 65191;
+			};
+		};
+		["Steel Sword"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 8.4;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 5;
+			};
+			["Worth"] = {
+				["Value"] = 1392;
+			};
+		};
+		["Crimson Rose Sword"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 2350;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 200;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Kazan no ha"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 20000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Dark Steel Blade"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 312;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 90;
+			};
+			["Worth"] = {
+				["Value"] = 26100;
+			};
+		};
+		["Trinity Longsword"] = {
+			["DMG"] = {
+				["Value"] = 336;
+			};
+			["Worth"] = {
+				["Value"] = 100;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 95;
+			};
+			["EventCurrency"] = {
+				["Value"] = "Easter Egg";
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Divinity"] = {
+			["Legendary"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 2683;
+			};
+			["Value"] = "One-Handed";
+			["Worth"] = {
+				["Value"] = 110199;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 380;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Shadow Eater"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 515;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 130;
+			};
+			["Worth"] = {
+				["Value"] = 37700;
+			};
+		};
+		["Vindictus Blade"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 897;
+			};
+			["Skill"] = {
+				["Value"] = 195;
+			};
+			["Worth"] = {
+				["Value"] = 56491;
+			};
+		};
+		["Incubigunone"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 1950;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Dark Angel Blade"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 4850;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Master Sword"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 1100;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "1";
+			};
+			["Skill"] = {
+				["Value"] = 5;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Poseidons Repulser"] = {
+			["DMG"] = {
+				["Value"] = 684;
+			};
+			["Worth"] = {
+				["Value"] = 46400;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 160;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Wooden Katana"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 125;
+			};
+			["Worth"] = {
+				["Value"] = 12000;
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Heart of Chaos"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 20000;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Worth"] = {
+				["Value"] = 10000;
+			};
+		};
+		["Haru"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 6150;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["PoH Cleaver"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 2000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Master Steel Sword"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 17.4;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Worth"] = {
+				["Value"] = 2900;
+			};
+		};
+		["Lisbeths OS Mace"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 100;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 125;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Asurian Dagger 2017"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 1000000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Kleins OS Katana"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 125;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 150;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Sandstorm Blade"] = {
+			["DMG"] = {
+				["Value"] = 179;
+			};
+			["Worth"] = {
+				["Value"] = 17400;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 60;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Ancient Warrior"] = {
+			["DMG"] = {
+				["Value"] = 462;
+			};
+			["Worth"] = {
+				["Value"] = 34800;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 120;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Amsalja Jinju"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 3000;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 180;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Dark Ren"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 50;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Victorious Blade"] = {
+			["Badge"] = {
+				["Value"] = 2124518899;
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 65;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 275;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Red Queen"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 200;
+			};
+			["Worth"] = {
+				["Value"] = 1.e+27;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Iron Sword"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 3.4;
+			};
+			["Skill"] = {
+				["Value"] = 1;
+			};
+			["Worth"] = {
+				["Value"] = 231;
+			};
+		};
+		["Zus Void"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 3000;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 180;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Millennium Blade"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 75;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Corroded Crusader"] = {
+			["DMG"] = {
+				["Value"] = 570;
+			};
+			["Worth"] = {
+				["Value"] = 40600;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 140;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Master Rex"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 3250;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Veovs Mastersword"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 400;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Holy Excalibur"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 3000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Sword of Thanatos"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 5100;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Beginner Sword"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 3.4;
+			};
+			["Skill"] = {
+				["Value"] = 1;
+			};
+			["Worth"] = {
+				["Value"] = 231;
+			};
+		};
+		["Psuedo Deleter"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 200;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 400;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Purity"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 200;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Yuukis Sword"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 100;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 125;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Night Sky Sword"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 100000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 1;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Gladius Sword"] = {
+			["DMG"] = {
+				["Value"] = 12.4;
+			};
+			["Value"] = "One-Handed";
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 7;
+			};
+			["Worth"] = {
+				["Value"] = 1971;
+			};
+		};
+		["Deep Red Divinity"] = {
+			["DMG"] = {
+				["Value"] = 2818;
+			};
+			["Value"] = "One-Handed";
+			["Worth"] = {
+				["Value"] = 130499;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 450;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Trinity Longsword MII"] = {
+			["DMG"] = {
+				["Value"] = 897;
+			};
+			["Worth"] = {
+				["Value"] = 240;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 195;
+			};
+			["EventCurrency"] = {
+				["Value"] = "Easter Egg";
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Ns World Eater"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 1500;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Gregs Will"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 7350;
+			};
+			["Value"] = "One-Handed";
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["NightsBane"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 800;
+			};
+			["Worth"] = {
+				["Value"] = 12000000;
+			};
+			["Skill"] = {
+				["Value"] = 450;
+			};
+			["Value"] = "One-Handed";
+		};
+		["GrandMaster Steel Blade Mk II"] = {
+			["DMG"] = {
+				["Value"] = 35;
+			};
+			["Worth"] = {
+				["Value"] = 5220;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 18;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Blue Rose Sword"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 275;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 1;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Inferno Staff Mk II"] = {
+			["StatusEffect"] = {
+				["Value"] = "Burn";
+				["Duration"] = {
+					["Value"] = 5;
+				};
+				["EmitsFromPart"] = {
+					["Value"] = "Crystal";
+				};
+				["Chance"] = {
+					["Value"] = 8;
+				};
+			};
+			["DMG"] = {
+				["Value"] = 436;
+			};
+			["Value"] = "One-Handed";
+			["EventCurrency"] = {
+				["Value"] = "Candy Corn";
+			};
+			["Skill"] = {
+				["Value"] = 115;
+			};
+			["Worth"] = {
+				["Value"] = 300;
+			};
+		};
+		["Gem Scythe"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 2000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Gun Blade"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 600;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 1;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Glade Blade"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 86;
+			};
+			["Skill"] = {
+				["Value"] = 35;
+			};
+			["Worth"] = {
+				["Value"] = 10092;
+			};
+		};
+		["Neko Slayer"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 159;
+			};
+			["Skill"] = {
+				["Value"] = 55;
+			};
+			["Worth"] = {
+				["Value"] = 15891;
+			};
+		};
+		["Elucidator VII"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 60;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 45;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Mirror Blade"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 221;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 70;
+			};
+			["Worth"] = {
+				["Value"] = 20300;
+			};
+		};
+		["Butterfly Blade"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 743;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 170;
+			};
+			["Worth"] = {
+				["Value"] = 49300;
+			};
+		};
+		["Inferno Staff"] = {
+			["StatusEffect"] = {
+				["Value"] = "Burn";
+				["Duration"] = {
+					["Value"] = 3;
+				};
+				["EmitsFromPart"] = {
+					["Value"] = "Crystal";
+				};
+				["Chance"] = {
+					["Value"] = 5;
+				};
+			};
+			["DMG"] = {
+				["Value"] = 121;
+			};
+			["Value"] = "One-Handed";
+			["EventCurrency"] = {
+				["Value"] = "Candy Corn";
+			};
+			["Skill"] = {
+				["Value"] = 45;
+			};
+			["Worth"] = {
+				["Value"] = 250;
+			};
+		};
+		["Dark Repulser Mk III"] = {
+			["DMG"] = {
+				["Value"] = 866;
+			};
+			["Worth"] = {
+				["Value"] = 55099;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 190;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Liberator Sword"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 1000;
+			};
+			["Value"] = "One-Handed";
+			["Pass"] = {
+				["Value"] = 8419052;
+			};
+			["Skill"] = {
+				["Value"] = 150;
+			};
+			["Worth"] = {
+				["Value"] = 1;
+			};
+		};
+		["Asurian Stave"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 10000;
+			};
+			["Worth"] = {
+				["Value"] = 88888888;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Bright Retribution"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 3000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Queens Resolve"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 948;
+			};
+			["Skill"] = {
+				["Value"] = 203;
+			};
+			["Worth"] = {
+				["Value"] = 58811;
+			};
+		};
+		["Excalibur"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 100;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Wise Blade"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 600;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 1;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Type 40 Replica"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 400;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 550;
+			};
+			["Worth"] = {
+				["Value"] = 9000000;
+			};
+		};
+		["Calibur"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["DMG"] = {
+				["Value"] = 41;
+			};
+			["Worth"] = {
+				["Value"] = 5800;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 20;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Fallen Angel"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 3250;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Caliburn"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 600;
+			};
+			["Worth"] = {
+				["Value"] = 1;
+			};
+			["Skill"] = {
+				["Value"] = 100;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Atarrus Umbra"] = {
+			["DMG"] = {
+				["Value"] = 1192;
+			};
+			["Worth"] = {
+				["Value"] = 69600;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 240;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Yang Katana"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 841;
+			};
+			["Skill"] = {
+				["Value"] = 186;
+			};
+			["Worth"] = {
+				["Value"] = 53939;
+			};
+		};
+		["Ally Blade"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 3250;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Adonis"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 850;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Largox Blade"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 1450;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Silveas Ace"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 250;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 200;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Dark Repulser"] = {
+			["DMG"] = {
+				["Value"] = 312;
+			};
+			["Worth"] = {
+				["Value"] = 26100;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 90;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Aqua Blade"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 655;
+			};
+			["Skill"] = {
+				["Value"] = 155;
+			};
+			["Worth"] = {
+				["Value"] = 44892;
+			};
+		};
+		["Wishbone"] = {
+			["Badge"] = {
+				["Value"] = 2124851502;
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 0;
+			};
+			["Worth"] = {
+				["Value"] = 300;
+			};
+			["EventCurrency"] = {
+				["Value"] = "Turkey Feather";
+			};
+			["Skill"] = {
+				["Value"] = 290;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Red Rose Sword"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 10000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 75;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Christmas Blade"] = {
+			["Badge"] = {
+				["Value"] = 2124651409;
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 0;
+			};
+			["Worth"] = {
+				["Value"] = 300;
+			};
+			["EventCurrency"] = {
+				["Value"] = "Coal";
+			};
+			["Skill"] = {
+				["Value"] = 305;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Malachite Blade"] = {
+			["DMG"] = {
+				["Value"] = 103;
+			};
+			["Worth"] = {
+				["Value"] = 11600;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 40;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Lighted Fir Blade"] = {
+			["Badge"] = {
+				["Value"] = 2124651409;
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 0;
+			};
+			["Worth"] = {
+				["Value"] = 200;
+			};
+			["EventCurrency"] = {
+				["Value"] = "Coal";
+			};
+			["Skill"] = {
+				["Value"] = 250;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Eijis OS Sword"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 150;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 175;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Tesla Crux"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 700;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Silver Beater 1H"] = {
+			["Badge"] = {
+				["Value"] = 306606426;
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 65;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Holy Ray"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 40;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Kino Sword"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 200;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Karakurenai"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+			["Pass"] = {
+				["Value"] = 10470952;
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Webripper"] = {
+			["Badge"] = {
+				["Value"] = 2124622395;
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 0;
+			};
+			["Worth"] = {
+				["Value"] = 300;
+			};
+			["EventCurrency"] = {
+				["Value"] = "Candy Corn";
+			};
+			["Skill"] = {
+				["Value"] = 280;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Rune Master"] = {
+			["DMG"] = {
+				["Value"] = 155;
+			};
+			["Worth"] = {
+				["Value"] = 15659;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 54;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Frostbyte"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 100;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Snowstorm"] = {
+			["DMG"] = {
+				["Value"] = 4663;
+			};
+			["Value"] = "One-Handed";
+			["Worth"] = {
+				["Value"] = 188500;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 650;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Dark Repulser Mk II"] = {
+			["DMG"] = {
+				["Value"] = 570;
+			};
+			["Worth"] = {
+				["Value"] = 40600;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 140;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Green Guard"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 630;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Ascending Blade"] = {
+			["Badge"] = {
+				["Value"] = 2124758849;
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 200;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 35;
+			};
+			["Value"] = "One-Handed";
+		};
+		["TrollSword"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 1250;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Corruption Slicer"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 41;
+			};
+			["Skill"] = {
+				["Value"] = 20;
+			};
+			["Worth"] = {
+				["Value"] = 5800;
+			};
+		};
+		["Purification"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 1025;
+			};
+			["Skill"] = {
+				["Value"] = 215;
+			};
+			["Worth"] = {
+				["Value"] = 62291;
+			};
+		};
+		["Gunbai"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 0;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Forest Warrior"] = {
+			["DMG"] = {
+				["Value"] = 804;
+			};
+			["Worth"] = {
+				["Value"] = 52200;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 180;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Elinlhach"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 2500;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Chrollo Blade"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 2550;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Scimitar"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 140;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 50;
+			};
+			["Worth"] = {
+				["Value"] = 14499;
+			};
+		};
+		["Eternal Blade"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 150;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Light Ren"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 50;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Blade of Crows"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 600;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Skill"] = {
+				["Value"] = 75;
+			};
+			["Value"] = "One-Handed";
+		};
+		["The Dark Blade"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 4250;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Goldbat"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["Custom"] = {
+				["Value"] = 1601510400;
+			};
+			["Value"] = "One-Handed";
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["DMG"] = {
+				["Value"] = 434;
+			};
+		};
+		["Jorja L"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 2650;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["LightningBolt"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 25000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Incubiguntwo"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 1950;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Sky Blade"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 1226;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 245;
+			};
+			["Worth"] = {
+				["Value"] = 70992;
+			};
+		};
+		["Goblin Slayer Sword"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 1500;
+			};
+			["Custom"] = {
+				["Value"] = 1636788600;
+			};
+			["Value"] = "One-Handed";
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 1;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Shadow Guardian"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 542;
+			};
+			["Skill"] = {
+				["Value"] = 135;
+			};
+			["Worth"] = {
+				["Value"] = 39092;
+			};
+		};
+		["Butterfly Katana"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 774;
+			};
+			["Skill"] = {
+				["Value"] = 175;
+			};
+			["Worth"] = {
+				["Value"] = 50692;
+			};
+		};
+		["Psuedo"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 4000;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 400;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Jayden"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 0;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Poseidons Scale"] = {
+			["Legendary"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 1766;
+			};
+			["Worth"] = {
+				["Value"] = 81200;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 280;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Master Steel Sword Mk II"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 23;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 13;
+			};
+			["Worth"] = {
+				["Value"] = 3711;
+			};
+		};
+		["Heavens Wrath"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 2950;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Stalhrim Blade"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 993;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 210;
+			};
+			["Worth"] = {
+				["Value"] = 60899;
+			};
+		};
+		["Death"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 30;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Rosa Gluck"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 5000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Frost Keeper"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 3250;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Dark Butterfly Katana"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 792;
+			};
+			["Skill"] = {
+				["Value"] = 178;
+			};
+			["Worth"] = {
+				["Value"] = 51620;
+			};
+		};
+		["Shadows Wraith"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 221;
+			};
+			["Skill"] = {
+				["Value"] = 70;
+			};
+			["Worth"] = {
+				["Value"] = 20300;
+			};
+		};
+		["Cavern Blade"] = {
+			["DMG"] = {
+				["Value"] = 321;
+			};
+			["Worth"] = {
+				["Value"] = 26679;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 92;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Elucidator VI"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 200;
+			};
+			["Value"] = "One-Handed";
+			["Pass"] = {
+				["Value"] = 8419020;
+			};
+			["Skill"] = {
+				["Value"] = 35;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Gran"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 436;
+			};
+			["Skill"] = {
+				["Value"] = 115;
+			};
+			["Worth"] = {
+				["Value"] = 33292;
+			};
+		};
+		["Blade of Ice"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 243;
+			};
+			["Skill"] = {
+				["Value"] = 75;
+			};
+			["Worth"] = {
+				["Value"] = 21692;
+			};
+		};
+		["Purple Death"] = {
+			["Badge"] = {
+				["Value"] = 2124518895;
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 500;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 60;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Demonic Blade"] = {
+			["DMG"] = {
+				["Value"] = 360;
+			};
+			["Worth"] = {
+				["Value"] = 28999;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 100;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Yatsufusa"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 200;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Fenrir"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 600;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 1;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Crimson Spectres Blade"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 2.4;
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Hope Blade"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 1260;
+			};
+			["Skill"] = {
+				["Value"] = 250;
+			};
+			["Worth"] = {
+				["Value"] = 72500;
+			};
+		};
+		["Volcanic Blade"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 336;
+			};
+			["Skill"] = {
+				["Value"] = 95;
+			};
+			["Worth"] = {
+				["Value"] = 27491;
+			};
+		};
+		["Horizon"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 120;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["BlackHeart Blade"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 6000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 1;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Holy Light Blade"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 1365;
+			};
+			["Skill"] = {
+				["Value"] = 265;
+			};
+			["Worth"] = {
+				["Value"] = 76792;
+			};
+		};
+		["The Weeping Blade"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 1350;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Blue Flame"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 5750;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Spartin Sword"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 200;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Chimera"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 410;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 110;
+			};
+			["Worth"] = {
+				["Value"] = 31899;
+			};
+		};
+		["Turkish Axe"] = {
+			["Badge"] = {
+				["Value"] = -1;
+			};
+			["DMG"] = {
+				["Value"] = 562;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 130;
+			};
+			["Worth"] = {
+				["Value"] = 37700;
+			};
+		};
+		["Scyythe"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 999999;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Oblivion"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 501;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["The Salty Katana"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 0;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Deepsea SwiftBlade"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 627;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 150;
+			};
+			["Worth"] = {
+				["Value"] = 43500;
+			};
+		};
+		["Midnight Pulse"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 125;
+			};
+			["Worth"] = {
+				["Value"] = 12000;
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["The Green Flame Sword"] = {
+			["StatusEffect"] = {
+				["Value"] = "Poison";
+				["Duration"] = {
+					["Value"] = 3;
+				};
+				["EmitsFromPart"] = {
+					["Value"] = "Crystal";
+				};
+				["Chance"] = {
+					["Value"] = 5;
+				};
+			};
+			["DMG"] = {
+				["Value"] = 478;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 123;
+			};
+			["Worth"] = {
+				["Value"] = 35612;
+			};
+		};
+		["Floral Blade"] = {
+			["DMG"] = {
+				["Value"] = 1058;
+			};
+			["Worth"] = {
+				["Value"] = 63799;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 220;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Zangetsu"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 2000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Basin Broadsword"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 70;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 30;
+			};
+			["Worth"] = {
+				["Value"] = 8700;
+			};
+		};
+		["Muramusa"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 100000000000000000000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Skill"] = {
+				["Value"] = 75;
+			};
+			["Value"] = "One-Handed";
+		};
+		["GrandMaster Steel Blade"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 28;
+			};
+			["Skill"] = {
+				["Value"] = 15;
+			};
+			["Worth"] = {
+				["Value"] = 4292;
+			};
+		};
+		["Akikos Will"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 1330;
+			};
+			["Skill"] = {
+				["Value"] = 260;
+			};
+			["Worth"] = {
+				["Value"] = 75400;
+			};
+		};
+		["Rabbit Fang"] = {
+			["Badge"] = {
+				["Value"] = 2125909406;
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 50;
+			};
+			["Worth"] = {
+				["Value"] = 275;
+			};
+			["EventCurrency"] = {
+				["Value"] = "Easter Egg";
+			};
+			["Skill"] = {
+				["Value"] = 295;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Jorja I"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 2650;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["5 Foot Sub"] = {
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 100;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 75;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Fragrent Olive Sword"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 275;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 425;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Corruption"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 200;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Herlov Battle Axe"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["Custom"] = {
+				["Value"] = 1605916800;
+			};
+			["DMG"] = {
+				["Value"] = 836;
+			};
+			["Value"] = "One-Handed";
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Cursed Blade"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 1158;
+			};
+			["Skill"] = {
+				["Value"] = 235;
+			};
+			["Worth"] = {
+				["Value"] = 68092;
+			};
+		};
+		["Bakuya"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 6000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Vox"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 300;
+			};
+			["Worth"] = {
+				["Value"] = 88888888;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 445;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Sword of Azores"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 1750;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Crimson Shadow"] = {
+			["Shop"] = {
+				["Value"] = 0;
+			};
+			["DMG"] = {
+				["Value"] = 866;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 190;
+			};
+			["Worth"] = {
+				["Value"] = 55099;
+			};
+		};
+		["Dark Vengeance"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 3000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Eenzas Torture Weapon"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 2150;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 50;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Holy Blade"] = {
+			["Value"] = "One-Handed";
+			["DMG"] = {
+				["Value"] = 1365;
+			};
+			["Skill"] = {
+				["Value"] = 265;
+			};
+			["Worth"] = {
+				["Value"] = 76792;
+			};
+		};
+		["Floral Smile"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 3250;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Last Breath"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 5150;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Merlins Stick"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 2690;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 380;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Ordinal Scale Sword"] = {
+			["Badge"] = {
+				["Value"] = 2124518898;
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 425;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Skill"] = {
+				["Value"] = 75;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Permafrost Sword"] = {
+			["StatusEffect"] = {
+				["Value"] = "Freeze";
+				["Duration"] = {
+					["Value"] = 3;
+				};
+				["EmitsFromPart"] = {
+					["Value"] = "BladePart";
+				};
+				["Chance"] = {
+					["Value"] = 5;
+				};
+			};
+			["DMG"] = {
+				["Value"] = 265;
+			};
+			["Value"] = "One-Handed";
+			["Worth"] = {
+				["Value"] = 23200;
+			};
+			["Skill"] = {
+				["Value"] = 80;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Impartial Edge"] = {
+			["DMG"] = {
+				["Value"] = 929;
+			};
+			["Worth"] = {
+				["Value"] = 57999;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 200;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Benehime"] = {
+			["Unobtainable"] = {
+				["Value"] = 0.1;
+			};
+			["StatusEffect"] = {
+				["Value"] = "All";
+				["Duration"] = {
+					["Value"] = 3;
+				};
+				["Chance"] = {
+					["Value"] = 100;
+				};
+			};
+			["DMG"] = {
+				["Value"] = 2.4;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Skill"] = {
+				["Value"] = 0.1;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Harmony Renaissance"] = {
+			["DMG"] = {
+				["Value"] = 1111;
+			};
+			["Worth"] = {
+				["Value"] = 66120;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 228;
+			};
+			["Craft"] = {
+				["Value"] = "1";
+			};
+		};
+		["Blessed Blade"] = {
+			["StatusEffect"] = {
+				["Value"] = "Light";
+				["Duration"] = {
+					["Value"] = 5;
+				};
+				["Chance"] = {
+					["Value"] = 50;
+				};
+			};
+			["DMG"] = {
+				["Value"] = 1436;
+			};
+			["Value"] = "One-Handed";
+			["Skill"] = {
+				["Value"] = 275;
+			};
+			["Worth"] = {
+				["Value"] = 79692;
+			};
+		};
+		["Zaku"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["Custom"] = {
+				["Value"] = 1605916800;
+			};
+			["DMG"] = {
+				["Value"] = 836;
+			};
+			["Value"] = "One-Handed";
+			["Bound"] = {
+				["Value"] = "0";
+			};
+			["Skill"] = {
+				["Value"] = 10;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+		};
+		["Spirit Weaver"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 250;
+			};
+			["Worth"] = {
+				["Value"] = 12000;
+			};
+			["Skill"] = {
+				["Value"] = 250;
+			};
+			["Value"] = "One-Handed";
+		};
+		["Kanshou"] = {
+			["Unobtainable"] = {
+				["Value"] = "";
+			};
+			["Exempt"] = {
+				["Value"] = "Cardinal will not calc worth.";
+			};
+			["DMG"] = {
+				["Value"] = 6000;
+			};
+			["Worth"] = {
+				["Value"] = 0;
+			};
+			["Bound"] = {
+				["Value"] = "";
+			};
+			["Skill"] = {
+				["Value"] = 0;
+			};
+			["Value"] = "One-Handed";
+		};
+} [[ End ]] 
